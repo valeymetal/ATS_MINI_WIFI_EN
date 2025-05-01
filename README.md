@@ -19,5 +19,6 @@ Weather from https://open-meteo.com/
 
 ![Diagram](ATS_MINI_WIFI_EN/Image/1.jpg)
 ![Diagram](ATS_MINI_WIFI_EN/Image/2.png)
+![Diagram](ATS_MINI_WIFI_EN/Image/4.png)
 ![Diagram](ATS_MINI_WIFI_EN/Image/3.png)
 
