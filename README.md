@@ -15,7 +15,8 @@ G8PTN, Dave: https://github.com/G8PTN/ATS_MINI
 Modified version to connect to Wi-Fi to retrieve date, time, and weather
 conditions to display.
 Date&Time from pool.ntp.org, time.nist.gov
-Weather from https://open-meteo.com/
+Weather from https://open-meteo.com/ 
+And information from fellow member Si4732 Mini Receiver All Bands
 
 ![Diagram](ATS_MINI_WIFI_EN/Image/1.jpg)
 ![Diagram](ATS_MINI_WIFI_EN/Image/2.png)
